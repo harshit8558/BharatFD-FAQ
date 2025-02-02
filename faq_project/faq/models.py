@@ -32,4 +32,4 @@ class FAQ(models.Model):
         return question
 
     def _str_(self):
-        return self.question
+        return self.question
