@@ -1,0 +1,3 @@
+*.pyc
+faq_project/__pycache__/
+.env
